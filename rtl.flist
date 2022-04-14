@@ -1,0 +1,15 @@
+D:\GitHub\AESgen\aes_ctrl.sv
+D:\GitHub\AESgen\aes_enc.sv
+D:\GitHub\AESgen\aes_key_gen.sv
+D:\GitHub\AESgen\aes_mix_column.sv
+D:\GitHub\AESgen\aes_mix_single_column.sv
+D:\GitHub\AESgen\aes_mul_gf4.sv
+D:\GitHub\AESgen\aes_mul_inv.sv
+D:\GitHub\AESgen\aes_pipeline.sv
+D:\GitHub\AESgen\aes_pipeline_32.sv
+D:\GitHub\AESgen\aes_pkg.sv
+D:\GitHub\AESgen\aes_sbox.sv
+D:\GitHub\AESgen\aes_sbox_lut.sv
+D:\GitHub\AESgen\aes_sub_byte.sv
+D:\GitHub\AESgen\aes_sub_byte_lut.sv
+D:\GitHub\AESgen\aes_top.sv
